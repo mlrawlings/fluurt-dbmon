@@ -8,7 +8,7 @@ export default {
   output: {
     // sourcemap: true,
     format: "iife",
-    file: "dist/app.js"
+    file: "docs/app.js"
   },
   plugins: [
     resolve(),
